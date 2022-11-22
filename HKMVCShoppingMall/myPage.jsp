@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+내정보<br/>
+<a href = "userInfo.nhn">내 정보 보기 </a><br/>
+<a href = "userDelete.nhn">회원탈퇴</a>
+</body>
+</html>
